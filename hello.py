@@ -1,1 +1,3 @@
-print("Hello World!!!")
+import exemplo_while
+
+exemplo_while.executar_exemplo_while()
